@@ -1,0 +1,14 @@
+result = ''
+result2 = []
+result3 = 4564
+result4 = {}
+result5 = ()
+result6 = False
+
+if result3:
+    print('true')
+else:
+    print('false')
+
+
+
