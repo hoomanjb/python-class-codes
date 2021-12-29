@@ -1,0 +1,1000 @@
+  125  sudo apt install pinta
+  126  python --version
+  127  pythone --version
+  128  python3 --version
+  129  python3 
+  130  sudo mokutil --enable-validation 
+  131  sudo mokutil --disable-validation 
+  132  sudo update-secureboot-policy --new-key
+  133  mokutil --import VMWARE16.der 
+  134  python3
+  135  journalctl -exfu tor
+  136  charm
+  137  python3
+  138  ./pycharm.sh 
+  139  pip install gevent -pree
+  140  pip install gevent -pre
+  141  pip install gevent --pre
+  142  pip install auto-py-to-exe
+  143  pip install --upgrade setuptools
+  144  cd ..
+  145  pip install dotenv
+  146  pip3 install python-dotenv
+  147  journalctl -exfu tor
+  148  git clone https://github.com/Steffo99/greed
+  149  sudo apt install python3.9-dev
+  150  sudo apt install python3.8-dev 
+  151  sudo apt install pip
+  152  ll
+  153  sudo chmod +x tsetup.2.9.2.tar.xz 
+  154  sudo systemctl stop tor.service
+  155  journalctl -exfu tor
+  156  sudo systemctl restart tor.service
+  157  journalctl -exfu tor
+  158  sudo systemctl stop tor.service
+  159  sudo apt install wine
+  160  nano practic.txt
+  161  charm
+  162  sudo charm
+  163  charm
+  164  journalctl -exfu tor
+  165  sudo systemctl stop tor.service
+  166  journalctl -exfu tor
+  167  charm
+  168  ./pycharm
+  169  nano
+  170  python3.8 test1.py 
+  171  python3
+  172  ll
+  173  python3
+  174  nano
+  175  python3.8 test.py 
+  176  python3
+  177  nano test.py 
+  178  ./pycharm
+  179  ./pycharm.sh
+  180  مم
+  181  ll
+  182  sudo chmod +x See.S01E01.E03_WorldSubtitle*
+  183  sudo chown hooman See.S01E01.E03_WorldSubtitle*
+  184  ll
+  185  sudo chown hooman See.S01E01.E03_WorldSubtitle*
+  186  ll
+  187  sudo chown hooman See.S01E01.E03_WorldSubtitle*
+  188  ll
+  189  ./datagrip.sh 
+  190  cd /etc/
+  191  ls
+  192  cat host
+  193  cat hosts
+  194  sudo nano hosts
+  195  cd -
+  196  ./datagrip.sh 
+  197  git status 
+  198  sudo apt install python3.9-dev
+  199  sudo apt install python3.9
+  200  git clone https://github.com/hoomanjb/greed.git
+  201  git clone 217.182.208.105://home/hmnjbcom/hemastore
+  202  sudo dpkg -i code_1.59.0-1628120042_amd64.deb 
+  203  git clone https://gitlab.com/tractor-team/qtractor.git
+  204  journalctl -exfu tor
+  205  sudo systemctl stop tor.service
+  206  sudo systemctl start tor.service
+  207  journalctl -exfu tor
+  208  sudo systemctl restart tor.service
+  209  journalctl -exfu tor
+  210  sudo systemctl restart tor.service
+  211  journalctl -exfu tor
+  212  journalctl -exfu Tor
+  213  journalctl -exfu tor
+  214  sudo systemctl stop tor.service
+  215  sudo nano /etc/tor/torrc
+  216  journalctl -exft Tor
+  217  sudo systemctl restart tor@default.service
+  218  journalctl -exft Tor
+  219  journalctl -exfu tor
+  220  sudo systemctl restart tor@default.service
+  221  journalctl -exft Tor
+  222  sudo nano /etc/tor/torrc
+  223  sudo systemctl restart tor@default.service
+  224  journalctl -exft Tor
+  225  sudo nano /etc/tor/torrc
+  226  sudo systemctl restart tor@default.service
+  227  journalctl -exft Tor
+  228  sudo apt install torsocks 
+  229  less /etc/tor/torsocks.conf
+  230  torsocks 
+  231  sudo systemctl stop tor@default.service
+  232  sudo systemctl stop tor.service
+  233  sudo add-apt-repository ppa:tractor-team/tractor
+  234  sudo apt update 
+  235  sudo apt install traqtor 
+  236  sudo apt remove tor
+  237  sudo apt install traqtor 
+  238  less /etc/tor/torsocks.conf
+  239  sudo nano /etc/tor/torrc
+  240  sudo systemctl restart tor@default.service
+  241  journalctl -exft Tor
+  242  sudo nano /etc/tor/torrc
+  243  journalctl -exft Tor
+  244  pip install coloredlogs
+  245  python -OO core.py
+  246  python3 -OO core.py
+  247  sudo nano /etc/NetworkManager/NetworkManager.conf
+  248  journalctl -exft Tor
+  249  sudo systemctl stop tor@default.service
+  250  journalctl -exft Tor
+  251  sudo systemctl restart tor.service
+  252  journalctl -exfu tor
+  253  journalctl -exft tor
+  254  sudo systemctl stop tor.service
+  255  sudo systemctl restart tor@default.service
+  256  journalctl -exft Tor
+  257  sudo systemctl stop tor.service
+  258  sudo systemctl stop tor@default.service
+  259  sudo systemctl restart tor@default.service
+  260  sudo systemctl restart tor.service
+  261  journalctl -exft Tor
+  262  charm
+  263  pip install urllib3
+  264  python -OO core.py
+  265  pip install psycopg2
+  266  pip install psycopg2-binary
+  267  ./datagrip.sh 
+  268  sudo apt-get install wget ca-certificates
+  269  wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+  270  sudo apt-get update
+  271  sudo apt-get -y install postgresql
+  272  sudo apt-get -y install postgresql-contrib
+  273  sudo su - postgres 
+  274  charm
+  275  sudo su  - postgres 
+  276  ./datagrip.sh 
+  277  sudo dpkg -i dropbox_2020.03.04_amd64.deb 
+  278  charm
+  279  datagrip
+  280  ./datagrip.sh 
+  281  ll
+  282  sudo chmod +x InstallAble2ExtractPro.deb 
+  283  sudo dpkg -i InstallAble2ExtractPro.deb 
+  284  sudo apt install libpocoxml62
+  285  apt-get --fix-broken install 
+  286  sudo apt-get --fix-broken install 
+  287  sudo apt install libpocoxml62
+  288  sudo dpkg -i InstallAble2ExtractPro.deb 
+  289  charm
+  290  sudo systemctl restart tor.service
+  291  history
+  292  sudo systemctl restart tor@default.service
+  293  journalctl -exft Tor
+  294  sudo systemctl restart tor@default.servicjournalctl -exft Tore
+  295  journalctl -exft Tor
+  296  sudo nano /etc/tor/torrc
+  297  sudo systemctl restart tor@default.service
+  298  journalctl -exft tor
+  299  sudo nano /etc/tor/torrc
+  300  sudo systemctl restart tor@default.service
+  301  sudo systemctl restart tor@default.servic
+  302  sudo systemctl restart tor@default.service
+  303  journalctl -exft tor
+  304  sudo systemctl stop tor@default.service
+  305  sudo systemctl restart tor.service
+  306  journalctl -exft tor
+  307  sudo systemctl stop tor.service
+  308  ssh 144.76.214.169
+  309  ssh 9cb.vps.hemastore
+  310  ssh 144.76.214.169
+  311  charm
+  312  sudo apt install openssh-client
+  313  ssh root@144.76.214.168
+  314  ssh root@144.76.214.169
+  315  charm
+  316  sudo apt install vim
+  317  vim /etc/resolv.conf 
+  318  ssh root@144.76.214.169
+  319  ssh-keygen -f "/home/hooman/.ssh/known_hosts" -R "144.76.214.169"
+  320  ssh root@144.76.214.169
+  321  charm
+  322  ./pycharm.sh
+  323  sudo apt install steam-installer 
+  324  ./pycharm
+  325  ./pycharm.sh
+  326  cd
+  327  charm
+  328  sudo charm
+  329  /usr/local/bin/charm\
+  330  /usr/local/bin/charm
+  331  cd -
+  332  ./pycharm.sh
+  333  cd
+  334  rm -rf /usr/local/bin/charm
+  335  sudo rm -rf /usr/local/bin/charm
+  336  sudo apt install steam-devices 
+  337  steam 
+  338  sudo steam
+  339  sudo steam 
+  340  steam 
+  341  sudo apt-get install libnvidia-gl-390:i386
+  342  steam
+  343  sudo apt-get install libnvidia-gl-460
+  344  git status 
+  345  git checkout -b hoomanjb-dev
+  346  git status 
+  347  git push origin master 
+  348  git push origin hoomanjb-dev 
+  349  git checkout master 
+  350  git pull origin master 
+  351  git status 
+  352  ssh-keygen -t ed25519 -C "hoomanjavan74@gmail.com"
+  353  eval "$(ssh-agent -s)"
+  354  ssh-add ~/.ssh/id_ed25519
+  355  cat .ssh/id_ed25519
+  356  cat .ssh/id_ed25519.pub 
+  357  git clone https://github.com/hoomanjb/ir-telegram-shoping-bot.git
+  358  sudo apt install htop
+  359  htop
+  360  history 
+  361  ssh root@144.76.214.169
+  362  git checkout develop 
+  363  git branch
+  364  git checkout add-temp-file
+  365  git checkout -b add-temp-file
+  366  git rebase -i HEAD~2
+  367  git checkout main 
+  368  git checkout -b gitignore
+  369  git checkout main 
+  370  git pull origin main 
+  371  git checkout database
+  372  git checkout -b database
+  373  git branch
+  374  git clone git@github.com:hoomanjb/hemastore-shopping-bot.git
+  375  htop
+  376  git checkout main 
+  377  git pull origin main 
+  378  git branch
+  379  git checkout fixdb
+  380  git checkout -b fixdb
+  381  git checkout main 
+  382  git pull origin main 
+  383  git checkout -b start-bot
+  384  ./datagrip.sh 
+  385  sudo dpkg -i lantern-linux.deb 
+  386  sudo su - postgres 
+  387  ssh root@144.76.214.169
+  388  sudo apt purge tor
+  389  sudo apt purge torsocks 
+  390  sudo systemctl stop tor.service
+  391  sudo nano /etc/tor/torrc
+  392  ll
+  393  ssh root@144.76.214.169
+  394  sudo apt-get install software-properties-common -y
+  395  sudo add-apt-repository ppa:max-c-lv/shadowsocks-libev -y
+  396  sudo apt-get update -y
+  397  sudo apt install shadowsocks-libev -y
+  398  sudo systemctl enable shadowsocks-libev
+  399  sudo vim  /etc/shadowsocks-libev/config.json  
+  400  sudo cp  /etc/shadowsocks-libev/config.json /etc/shadowsocks-libev/config.json.bu  
+  401  sudo vim  /etc/shadowsocks-libev/config.json  
+  402  sudo systemctl enable shadowsocks-libev
+  403  sudo systemctl start shadowsocks-libev
+  404  sudo systemctl restart shadowsocks-libev
+  405  sudo ufw allow proto tcp to 0.0.0.0/0 port 8388 comment "Shadowsocks server listen port"
+  406  sudo ufw allow proto tcp to 144.76.214.169/0 port 19208 comment "Shadowsocks server listen port"
+  407  sudo systemctl restart shadowsocks-libev
+  408  ping 144.76.214.169
+  409  ss://aes-256-gcm:Hoo@@@13741374@144.76.214.169:19208
+  410  ssh root@144.76.214.169
+  411  shadowconfig 
+  412  vi /lib/systemd/system/shadowsocks-local@.service
+  413  sudo vim /lib/systemd/system/hemastore@.service
+  414  sudo mkdir /etc/shadowsocks/local.json
+  415  sudo mkdir /etc/shadowsocks/
+  416  cd /etc/shadowsocks
+  417  sudo vim local.json
+  418  sudo apt install network-manager-l2tp-gnome
+  419  sudo systemctl status 
+  420  sudo systemctl status xl2tpd.service 
+  421  sudo systemctl restart xl2tpd.service 
+  422  sudo systemctl disable xl2tpd.service 
+  423  sudo systemctl status xl2tpd.service 
+  424  sudo systemctl stop xl2tpd.service 
+  425  sudo systemctl status xl2tpd.service 
+  426  ssh root@144.76.214.169
+  427  ll
+  428  crontab 
+  429  crontab -l
+  430  crontab -a
+  431  crontab -e
+  432  htop
+  433  pip install pandas
+  434  clear
+  435  git checkout master
+  436  git checkout main 
+  437  git pull origin main 
+  438  git checkout -b main-menu
+  439  git branch 
+  440  ./datagrip.sh 
+  441  git clone git@github.com:hoomanjb/hemastore-admin-bot.git
+  442  cd hemastore-admin-bot/
+  443  ls
+  444  ll
+  445  git add .
+  446  git commit -m "Initial Commit"
+  447  git push origin master 
+  448  git checkout -b main-menu
+  449  git checkout master 
+  450  git pull origin master 
+  451  git checkout -b product-controller
+  452  .da
+  453  ./datagrip.sh 
+  454  nano book_publisher.cdv
+  455  sudo su - postgres 
+  456  ./datagrip.sh 
+  457  cat .ssh/known_hosts
+  458  git checkout master 
+  459  git pull origin master 
+  460  git checkout add-product
+  461  git checkout -b add-product
+  462  ssh root@144.76.214.169
+  463  pip install tkinter
+  464  pip install tk
+  465  $ sudo apt-get install python3.8 python3-tk
+  466  nano scrach-sarfasl.txt
+  467  ./datagrip.sh 
+  468  ssh root@144.76.214.169
+  469  python3.9
+  470  ./datagrip.sh 
+  471  ssh root@144.76.214.169
+  472  ./datagrip.sh 
+  473  vim wp-config.php
+  474  vim db-address
+  475  sudo dpkg -i discord-0.0.16.deb 
+  476  nano pi-advance-decription.txt
+  477  nano pi-projects-decription.txt
+  478  cd /mnt/A6783E6D783E3BFD/Work/anisa/python-classes/private-bahreyni-14000609
+  479  ls
+  480  python3.9 calculator.py 
+  481  vim /etc/crontab 
+  482  sudo vim /etc/crontab 
+  483  cron
+  484  sudo cron
+  485  crontab -l
+  486  source /etc/crontab 
+  487  sudo source /etc/crontab 
+  488  crontab -e
+  489  crontab -l
+  490  ./datagrip.sh 
+  491  git branch -D add-temp-file main-menu fixdb start-bot 
+  492  git branch 
+  493  git branch -D feature-order-product database 
+  494  git branch 
+  495  git checkout -b feature-cart-menu
+  496  ./datagrip.sh 
+  497  ./config
+  498  ./configure 
+  499  make
+  500  make test
+  501  sudo make install 
+  502  python3.10 print(test)
+  503  python3.10 print('test')
+  504  python3
+  505  ssh root@144.76.214.169
+  506  vim test.sh
+  507  which python3
+  508  sudo apt update 
+  509  git --version 
+  510  git config --list
+  511  ll
+  512  git clone git clone git@github.com:hoomanjb/python-class.git
+  513  git clone git@github.com:hoomanjb/python-class.git
+  514  git --version 
+  515  ll
+  516  ls -all
+  517  cd ..
+  518  cd -
+  519  ll
+  520  cd .
+  521  ls
+  522  ls -all
+  523  cd .git/
+  524  ls
+  525  git config -list
+  526  git config --list
+  527  git config --global user.name "hooman"
+  528  git config --list
+  529  git config --global user.name "hooman2"
+  530  git config --list
+  531  git config --global user.name "hooman"
+  532  git config --list
+  533  git config --global branch.autosetuprebase always
+  534  cd 
+  535  ll
+  536  cat .gitconfig 
+  537  mysql
+  538  sudo apt update 
+  539  sudo apt install mysql-client-core-8.0 
+  540  sudo apt install mysql-server
+  541  sudo systemctl status mysql.service 
+  542  mysql
+  543  sudo mysql -u root -p
+  544  ./datagrip.sh 
+  545  vim 14000722.txt
+  546  vim 14000722.txt 
+  547  sudo mysql -u root -p
+  548  ./datagrip.sh 
+  549  git checkout -b user-account
+  550  sudo apt remove --autoremove python3.10
+  551  ls
+  552  sudo apt install pyhon3.10
+  553  sudo add-apt-repository ppa:deadsnakes/ppa
+  554  sudo apt update 
+  555  sudo apt install pyhon3.10
+  556  ./datagrip.sh 
+  557  sudo add-apt-repository ppa:deadsnakes/ppa
+  558  sudo apt remove --autoremove python3.10
+  559  sudo apt update 
+  560  sudo apt install python3.10-full 
+  561  python3.10
+  562  sudo apt update 
+  563  sudo apt upgrade 
+  564  sudo lspci | grep -i vga
+  565  ubuntu-drivers devices
+  566  ubuntu-drivers autoinstall
+  567  sudo ubuntu-drivers autoinstall
+  568  sudo dpkg --configure -a
+  569  sudo apt install nvidia-384
+  570  ./datagrip.sh 
+  571  git init
+  572  ll
+  573  git status 
+  574  ls
+  575  pwd
+  576  cd ~
+  577  cd -
+  578  cd
+  579  cd -
+  580  ls
+  581  mkdir git-init
+  582  ls
+  583  ls -a
+  584  ls -all
+  585  cd git-init/
+  586  ls
+  587  ll
+  588  git status
+  589  git init .
+  590  man cd
+  591  man git
+  592  help cd
+  593  man cd
+  594  help cd
+  595  l
+  596  ll
+  597  git status 
+  598  echo 'This is test'
+  599  echo 'This is test' > test.txt
+  600  ls
+  601  git status 
+  602  echo 'This is test2' > test2.txt
+  603  git status 
+  604  ls
+  605  git status 
+  606  git rm test2.txt 
+  607  git rm test2.txt
+  608  rm test2.txt 
+  609  ls
+  610  git rm test2.txt
+  611  git status 
+  612  echo 'This is test2' > test2.txt
+  613  git status 
+  614  git add test.txt 
+  615  git status 
+  616  git reset HEAD test.txt
+  617  git rm --cached test.txt 
+  618  git status 
+  619  git add .
+  620  git status 
+  621  git commit -m "add 2 files"
+  622  git status 
+  623  git log
+  624  ls
+  625  echo "changed text" > test.txt 
+  626  git status 
+  627  git restore test.txt
+  628  git status 
+  629  history
+  630  git status 
+  631  echo "this is test3" > test3.txt
+  632  git status 
+  633  git add test3.txt 
+  634  git status 
+  635  git commit -m "this is a test3"
+  636  git log
+  637  git log 
+  638  git status
+  639  git push origin master
+  640  git diff
+  641  git diff --staged 
+  642  git status
+  643  ls
+  644  git status 
+  645  rm test3.txt 
+  646  git status 
+  647  git add .
+  648  git status 
+  649  git commit
+  650  git log
+  651  vim .gitignore
+  652  git status 
+  653  git add .gitignore 
+  654  git status 
+  655  git commit -m "add gitignore file"
+  656  git status 
+  657  echo "test" > test.log
+  658  git status 
+  659  cat .gitignore 
+  660  ls
+  661  cat .gitignore 
+  662  ls
+  663  echo 'test' > chert.txt
+  664  git status 
+  665  echo 'test' > config.py
+  666  git status 
+  667  ls
+  668  echo 'edit file' > test2.txt 
+  669  git status 
+  670  git diff
+  671  git status 
+  672  git rm chert.txt 
+  673  ls
+  674  git rm -r chert.txt
+  675  git rm -f chert.txt
+  676  rm chert.txt 
+  677  ls
+  678  git status 
+  679  git diff
+  680  git status 
+  681  git add .
+  682  git status 
+  683  git diff
+  684  git diff test2.txt
+  685  git diff --staged 
+  686  git diff --staged test2.txt
+  687  ls
+  688  mv test.log test2.log
+  689  ls
+  690  mv test.log ~/Desktop/
+  691  mv test.log ~/Desktop/test.log
+  692  ls
+  693  mv test2.log ~/Desktop/
+  694  ls
+  695  git status 
+  696  ls
+  697  git mv test2.txt test3.txt
+  698  git status 
+  699  git commit -m "rename test2 to test3"
+  700  git log 
+  701  git show
+  702  git log
+  703  git log --oneline 
+  704  git log --oneline --graph 
+  705  git log --oneline --decorate
+  706  git log --since="3 days ago"
+  707  git hist
+  708  ssh root@144.76.214.169
+  709  git checkout fix-db
+  710  git checkout -b fix-db
+  711  vim test.sh
+  712  ls
+  713  ll
+  714  chmod +x test.sh 
+  715  ./test.sh 
+  716  htop
+  717  sudo swap off
+  718  sudo swapoff 
+  719  swapoff 
+  720  swapoff --all 
+  721  sudo swapoff --all 
+  722  htop
+  723  htop
+  724  sudo apt update 
+  725  sudo apt upgrade 
+  726  vim test.sh
+  727  ll
+  728  mv test.sh Steam/
+  729  cd Steam/
+  730  ll
+  731  chmod +x test.sh 
+  732  ./test.sh 
+  733  ./test.sh 
+  734  ./test.sh ./
+  735  ./test.sh 
+  736  ssh root@144.76.214.169
+  737  ./datagrip.sh 
+  738  htop
+  739  git checkout main 
+  740  git pull origin main 
+  741  git checkout -b feat-bought-orders
+  742  git checkout main 
+  743  git pull origin main 
+  744  git checkout -b fix-bug
+  745  git checkout main 
+  746  git pull origin main `
+  747  git pull origin main 
+  748  ssh root@144.76.214.169
+  749  ./datagrip.sh 
+  750  ./configure --enable-optimizations 
+  751  make -j 4
+  752  sudo make altinstall
+  753  python3.10 --version
+  754  sudo apt install python3-pip
+  755  python3.10
+  756  sudo apt install python3.11
+  757  python3.10
+  758  sudo apt purge python3.11
+  759  sudo apt purge python3.11-minimal 
+  760  sudo apt update && sudo apt upgrade -y
+  761  su 
+  762  sudo apt install software-properties-common -y
+  763  sudo apt autoremove
+  764  sudo add-apt-repository ppa:deadsnakes/ppa -y
+  765  sudo apt install python3.10
+  766  python3.10 --version
+  767  python3
+  768  sudo apt purge python3.10
+  769  python3.10
+  770  https://computingforgeeks.com/how-to-install-python-on-ubuntu-linux-system/#:~:text=sudo%20apt%20install%20build-essential%20zlib1g-dev%20libncurses5-dev%20libgdbm-dev%20libnss3-dev%20libssl-dev%20libreadline-dev%20libffi-dev%20libsqlite3-dev%20wget%20libbz2-dev
+  771  sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libsqlite3-dev wget libbz2-dev
+  772  wget https://www.python.org/ftp/python/3.10.0/Python-3.10.0.tgz
+  773  tar -xf Python-3.10.*.tgz
+  774  git checkout master 
+  775  git checkout f-b fix-order-model
+  776  git checkout -b fix-order-model
+  777  git checkout master 
+  778  git pull origin master 
+  779  git checkout -b change-order-model
+  780  ssh root@144.76.214.169
+  781  ssh root@144.76.214.169
+  782  git checkout main 
+  783  git pull origin main 
+  784  git checkout -b hotfix-cartitem
+  785  git checkout main 
+  786  git pull origin main 
+  787  ./datagrip.sh 
+  788  ssh root@144.76.214.169
+  789  git checkout -b fix-transaction-model
+  790  git checkout main 
+  791  git pull origin main 
+  792  git checkout -b hotfix2
+  793  ls
+  794  git status
+  795  git clone git@github.com:hoomanjb/python-class.git
+  796  cd python-class/
+  797  ls
+  798  ll
+  799  git status 
+  800  ls
+  801  cd ..
+  802  ls
+  803  cd python-class/
+  804  ls
+  805  git status 
+  806  vim README.txt
+  807  git status 
+  808  git add README.txt 
+  809  git status 
+  810  git push origin master
+  811  git push origin main
+  812  git branch -M main
+  813  git remote add origin https://github.com/hoomanjb/python-class.git
+  814  git config list
+  815  git config -list
+  816  git config --list
+  817  git commit -m "initial commit"
+  818  git push origin master
+  819  git status 
+  820  git pull origin master 
+  821  cd .ssh/
+  822  ls
+  823  cat id_ed25519.pub 
+  824  git checkout main 
+  825  git pull origin main 
+  826  git checkout -b feat-get-userinfo
+  827  git checkout main 
+  828  git pull origin main 
+  829  git checkout -b feat-bot-guide
+  830  git checkout master 
+  831  git pull origin master 
+  832  ssh root@144.76.214.169
+  833  ./datagrip.sh 
+  834  git status 
+  835  git push origin master 
+  836  git pull origin master 
+  837  git status 
+  838  git checkout main 
+  839  git pull origin main 
+  840  git checkout -b feat-bot-guide
+  841  git checkout -b bot-guide
+  842  git checkout main 
+  843  git pull origin main 
+  844  git checkout -b hotfix-2
+  845  ssh root@144.76.214.169
+  846  git checkout main 
+  847  git pull origin main 
+  848  git branch -D feat-*
+  849  git branch -D feat-add-idpay feat-bot-guide feat-bought-orders feat-get-userinfo feat-pay-order 
+  850  git branch -D fix-bug fix-cart-item fix-database fix-transaction-model 
+  851  git checkout chore-cartitem
+  852  git checkout -b chore-cartitem
+  853  ./datagrip.sh 
+  854  git status 
+  855  git add .
+  856  git status 
+  857  git pull origin master 
+  858  git push origin master 
+  859  git commit --amend 'feat: modify file class -> dict desc'
+  860  git pull origin master 
+  861  vim test
+  862  curl -X POST https://api.idpay.ir/v1.1/payment   -H 'Content-Type: application/json'   -H 'X-API-KEY: 6a7f99eb-7c20-4412-a972-6dfb7cd253a4'   -H 'X-SANDBOX: 1'   -d '{
+  863    "order_id": 101,
+  864    "amount": 10000,
+  865    "name": "قاسم رادمان",
+  866    "phone": "09382198592",
+  867    "mail": "my@site.com",
+  868    "desc": "توضیحات پرداخت کننده",
+  869    "callback": "https://example.com/callback"
+  870  }'
+  871  git stash
+  872  git status 
+  873  git checkout main 
+  874  git checkout -b feat-rayanlink
+  875  ssh root@144.76.214.169
+  876  ./datagrip.sh 
+  877  git checkout main 
+  878  git status 
+  879  git stash
+  880  git checkout main 
+  881  git pull origin main 
+  882  git checkout -b fix-2
+  883  git stash pop
+  884  ssh root@144.76.214.169
+  885  ./datagrip.sh 
+  886  git status 
+  887  git init .
+  888  git status 
+  889  ls
+  890  ll
+  891  git status 
+  892  echo 'hello world'
+  893  echo 'hello world' -> hello-world.txt
+  894  ls
+  895  cat hello-world.txt 
+  896  git status 
+  897  git add hello-world.txt 
+  898  git status 
+  899  git commit -m "add hello-world.txt for testing"
+  900  git status 
+  901  git log
+  902  git status 
+  903  ls
+  904  vim hello-world.txt 
+  905  git status 
+  906  echo "test" -> test.txt
+  907  git status 
+  908  git add .
+  909  git status 
+  910  git commit -m "add new file and modified hellowordl.txt"
+  911  git status 
+  912  vim .gitignore
+  913  git status 
+  914  git add .
+  915  git commit -m "add gitignore file to repo"
+  916  git status 
+  917  cat .gitignore 
+  918  echo "test" -> harchi.log
+  919  cat .gitignore 
+  920  git status 
+  921  ls
+  922  vim commit-rule.txt
+  923  ls
+  924  vim
+  925  vim commit-rule.txt
+  926  git status 
+  927  git add .
+  928  git commit
+  929  git status 
+  930  git log
+  931  git log --stat 
+  932  git log pretty=oneline
+  933  git log --pretty=oneline
+  934  git log --graph 
+  935  git log --pretty=format: "%H - %an, %ar: %s"
+  936  git log --pretty=format:"%h - %an, %ar: %s"
+  937  git log --pretty=format:"%h - %an - %ce, %ar: %s"
+  938  git status 
+  939  git commit --amend 
+  940  git log --pretty=format:"%h - %an - %ce, %ar: %s"
+  941  git log
+  942  git commit --amend 
+  943  git log --pretty=format:"%h - %an - %ce, %ar: %s"
+  944  git status 
+  945  ls
+  946  vim test.txt 
+  947  git status 
+  948  git restore test.txt
+  949  git status 
+  950  vim test.txt 
+  951  cat ~/.bashrc 
+  952  less ~/.bashrc 
+  953  cat ~/.bashrc
+  954  less ~/.bashrc 
+  955  more ~/.bashrc 
+  956  byobu
+  957  git config --global alias.st status
+  958  git st
+  959  git config --global alias.ci commit
+  960  git ci
+  961  git config --list 
+  962  git config --global alias.lg log --pretty=format:"%h - %an - %ce, %ar: %s"
+  963  git lg
+  964  ll
+  965  cat /etc/passwd
+  966  cd /
+  967  ls
+  968  cd dev/
+  969  ls
+  970  cd cpu/
+  971  ls
+  972  cd 0/
+  973  ls
+  974  cat msr 
+  975  sudo cat msr 
+  976  su - root 
+  977  cd -
+  978  cd /mnt/A6783E6D783E3BFD/Work/anisa/python-classes/Private-afzali14000631/git-init
+  979  git branch 
+  980  git branch readme
+  981  git branch 
+  982  git checkout readme 
+  983  git branch 
+  984  git status 
+  985  vim REDME.txt
+  986  git status 
+  987  git add .
+  988  git commit -m "add new file RedME"
+  989  git status 
+  990  ls
+  991  git status 
+  992  ls
+  993  git checkout master 
+  994  ls
+  995  git branch 
+  996  git merge readme 
+  997  ls
+  998  git branch 
+  999  ls
+ 1000  git log --pretty=format:"%h - %an - %ce, %ar: %s"
+ 1001  git log --graph 
+ 1002  git checkout  new-branch
+ 1003  git branch 
+ 1004  git checkout -b  new-branch
+ 1005  git status 
+ 1006  ls
+ 1007  vim REDME.txt 
+ 1008  git status 
+ 1009  git add .
+ 1010  git commit -m "new change to readme file"
+ 1011  git checkout master 
+ 1012  ls
+ 1013  git log --graph 
+ 1014  git fetch 
+ 1015  git log --graph 
+ 1016  git log --graph --decorate
+ 1017  git log --graph --abbrev-commit  --decorate
+ 1018  git log --graph --pretty=oneline
+ 1019  git log --graph --pretty=oneline --decorate -all
+ 1020  git log --graph --pretty=oneline --decorate --all
+ 1021  git status 
+ 1022  git branch 
+ 1023  git merge new-branch 
+ 1024  git branch -d new-branch readme 
+ 1025  git branch 
+ 1026  nano class.txt
+ 1027  ssh root@144.76.214.169
+ 1028  ./datagrip.sh 
+ 1029  git status 
+ 1030  git stash
+ 1031  git pull origin main 
+ 1032  git checkout main 
+ 1033  git pull origin main 
+ 1034  git checkout -b fix-product
+ 1035  git stash pop
+ 1036  git checkout master 
+ 1037  git pull origin master 
+ 1038  git checkout -b admin-manager
+ 1039  l
+ 1040  sudo chmod +x linux-x86_64-latest 
+ 1041  ./linux-x86_64-latest 
+ 1042  ll
+ 1043  ll
+ 1044  git status 
+ 1045  git restore --staged 14000816.py
+ 1046  git status 
+ 1047  git stash
+ 1048  git pull origin master 
+ 1049  git checkout -b dict-practice
+ 1050  sudo apt update 
+ 1051  sudo apt upgrade 
+ 1052  htop
+ 1053  sudo apt install chromium-browser
+ 1054  df
+ 1055  free
+ 1056  read
+ 1057  git status 
+ 1058  git stash
+ 1059  git status 
+ 1060  git checkout -b class-desc
+ 1061  git checkout master 
+ 1062  git pull origin master 
+ 1063  git checkout class-desc
+ 1064  ifconfig
+ 1065  sudo apt install net-tools 
+ 1066  ifconfig
+ 1067  ssh root@144.76.214.169
+ 1068  ssh root@144.76.214.169
+ 1069  git status 
+ 1070  git checkout main 
+ 1071  git pull origin main 
+ 1072  ./datagrip.sh 
+ 1073  mv ~/Desktop/a79c3d62-0b9e-40b6-b730-2eea4c5beb5a* .
+ 1074  vim inserting.txt 
+ 1075  byobu
+ 1076  ssh root@144.76.214.169
+ 1077  git status 
+ 1078  git stash
+ 1079  git pull origin master 
+ 1080  git checkout -b blackfriday
+ 1081  git rebase -i HEAD~2
+ 1082  git checkout master 
+ 1083  git pull origin master 
+ 1084  git checkout -b fix-orders
+ 1085  ssh root@144.76.214.169
+ 1086  ./datagrip.sh 
+ 1087  git checkout main 
+ 1088  git pull origin main 
+ 1089  git checkout -b fix-toman
+ 1090  ./datagrip.sh 
+ 1091  ssh root@144.76.214.169
+ 1092  ./datagrip.sh 
+ 1093  git status 
+ 1094  git checkout master 
+ 1095  git pull origin master 
+ 1096  git push origin master
+ 1097  git status 
+ 1098  git pull origin master 
+ 1099  git push origin master 
+ 1100  ifconfig --a
+ 1101  ifconfig -a
+ 1102  python3.9
+ 1103  ./datagrip.sh 
+ 1104  less /etc/profile
+ 1105  less ~/.bashrc
+ 1106  read name family grade < INPUT_FILE
+ 1107  echo "hello"
+ 1108  echo "hello" > test.txt
+ 1109  cat test.txt 
+ 1110  echo "hello2" > test.txt
+ 1111  cat test.txt 
+ 1112* echo "hello2" >> test.txt
+ 1113  cat test.txt 
+ 1114  vim test.sh
+ 1115  ./test.
+ 1116  ./test.sh 
+ 1117  vim test.sh
+ 1118  ./test.sh 
+ 1119  cat test.txt 
+ 1120  less ~/.bashrc 
+ 1121  history
+ 1122  less ~/.bashrc 
+ 1123  history
+ 1124  history > history.txt
