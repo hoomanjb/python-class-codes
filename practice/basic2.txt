@@ -506,30 +506,8 @@ True
 False
 False
 False
- 
-70. Write a Python program to find the longest common prefix string amongst a given array of strings. Return false If there is no common prefix.
-For Example, longest common prefix of "abcdefgh" and "abcefgh" is "abc".  
-Sample Input:
-["abcdefgh","abcefgh"]
-["w3r","w3resource"]
-["Python","PHP", "Perl"]
-["Python","PHP", "Java"]
-Sample Output:
-abc
-w3r
-P
- 
-71. Write a Python program to reverse only the vowels of a given string.  
-Sample Input:
-("w3resource")
-("Python")
-("Perl")
-("USA")
-Sample Output:
-w3resuorce
-Python
-Perl
-ASU
+
+
  
 72. Write a Python program to check whether a given integer is a palindrome or not.  
 Note: An integer is a palindrome when it reads the same backward as forward. Negative numbers are not palindromic.
@@ -691,20 +669,7 @@ Sample Output:
 [5, 0]
 [2, 6]
 [3, 3]
- 
-85. From Wikipedia:
-An isogram (also known as a "nonpattern word") is a logological term for a word or phrase without a repeating letter. It is also used by some people to mean a word or phrase in which each letter appears the same number of times, not necessarily just once. Conveniently, the word itself is an isogram in both senses of the word, making it autological.
-Write a Python program to check whether a given string is an "isogram" or not.  
-Sample Input:
-("w3resource")
-("w3r")
-("Python")
-("Java")
-Sample Output:
-False
-True
-True
-False
+
  
 86. Write a Python program to count the number of equal numbers from three given integers.  
 Sample Input:

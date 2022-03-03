@@ -1307,18 +1307,7 @@ Original lists:
 [1, 2, 3, 4, 5]
 Pair up the consecutive elements of the said list:
 [[1, 2], [2, 3], [3, 4], [4, 5]]
- 
-201. Write a Python program to check if a given string contains an element, which is present in a list.  
-The original string and list:
-https://www.w3resource.com/python-exercises/list/
-['.com', '.edu', '.tv']
-Check if https://www.w3resource.com/python-exercises/list/ contains an element, which is present in the list ['.com', '.edu', '.tv']
-True
-The original string and list: https://www.w3resource.net
-https://www.w3resource.net
-['.com', '.edu', '.tv']
-Check if https://www.w3resource.net contains an element, which is present in the list ['.com', '.edu', '.tv']
-False
+
  
 202. Write a Python program to find the indexes of all None items in a given list.  
 Original list:

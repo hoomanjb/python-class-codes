@@ -166,14 +166,6 @@ Note : A delimiter is a sequence of one or more characters used to specify the b
 49. Write a Python program to remove words from a string of length between 1 and a given number.  
 
  
-50. Write a Python program to remove the parenthesis area in a string.  
-Sample data : ["example (.com)", "w3resource", "github (.com)", "stackoverflow (.com)"]
-Expected Output:
-example
-w3resource
-github
-stackoverflow
- 
 51. Write a Python program to insert spaces between words starting with capital letters.  
  
 52. Write a Python program that reads a given expression and evaluates it.  
