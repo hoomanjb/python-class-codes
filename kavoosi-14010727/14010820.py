@@ -169,5 +169,5 @@ b = 10
 # full_name = my_func('saas', 'vvvv', 4, 5, aa='bb', cc=10)
 # print(full_name)
 
-a, *b, c = 3, 5, 6, 5, 6, 8
+# a, *b, c = 3, 5, 6, 5, 6, 8
 
